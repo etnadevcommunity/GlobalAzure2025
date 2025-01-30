@@ -1,7 +1,9 @@
-# Community title
+# EtnaDev Community
 
-![Community title](template.png)
+![EtnaDev Community](GlobalAzure2025-TeamsBackgroun.jpg)
 
-We're excited to be hosting an event at [Community title](https://globalazure.net/this-is-just-a-sample-link/)!
-
-Here you put any markdown content which describes your event location, and what you will be doing at your event. Get creative and tell your own story, list your agenda, speakers, and anything else that seems relevant to you! Please feel free to be inspired by all the community submissions at [GlobalAzure.net/communities](http://globalazure.net/communities)
+📅 Sabato, 10 maggio 2025  
+📍 Paradigma, Viale Africa 31, Catania  
+🗣 Call for speakers: https://sessionize.com/global-azure-2025-etnadevcommunity/    
+📃 Agenda : TBC  
+🎫 Registrazioni: https://www.eventbrite.it/e/1227946313479 
